@@ -255,7 +255,7 @@ php demo.php
 
 ## Deployment
 
-**GitHub Repository**: [https://github.com/yourusername/blogcms-console-edition.git](https://github.com/yourusername/blogcms-console-edition.git)
+**GitHub Repository**: [https://github.com/kara7z/BlogCMS---Console-Edition.git](https://github.com/kara7z/BlogCMS---Console-Edition.git)
 
 ### Future Deployment Options
 - **Phase 2**: RESTful API with database integration
