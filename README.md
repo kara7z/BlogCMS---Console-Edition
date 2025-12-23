@@ -67,7 +67,7 @@ The system serves four distinct user roles with different permission levels:
 ![Use Case Diagram](Preview/Diagramme%20de%20Use%20Cases.png)
 *UML Use Case Diagram showing actor interactions*
 
-![Class Diagram](Preview/)
+![Class Diagram](Preview/UML%20class%20diagrams.png)
 *Complete UML Class Diagram with relationships and multiplicities*
 
 ![Trello Planning Board](Preview/)
