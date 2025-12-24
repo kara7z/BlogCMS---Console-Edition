@@ -1,13 +1,3 @@
-<?php
-$conn = new mysqli("localhost", "root", "password", "database");
-
-if ($conn->connect_error) {
-    die("Connection failed");
-}
-
-echo "Connected successfully";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,9 +14,28 @@ echo "Connected successfully";
                 <li>hello</li>
                 <li>hello</li>
                 <li>hello</li>
+                <li>hello</li>
+                <li>hello</li>
+                <li>hello</li>
             </ol>
         </nav>
     </header>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            color: white;
+        }
+        body{
+            background-color: black;
+
+        }
+        ol{
+            margin:1.5rem;
+        }
+
+    </style>
     
 </body>
 </html>
