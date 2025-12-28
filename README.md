@@ -70,7 +70,7 @@ The system serves four distinct user roles with different permission levels:
 ![Class Diagram](Preview/UML%20class%20diagrams.png)
 *Complete UML Class Diagram with relationships and multiplicities*
 
-![Trello Planning Board](Preview/)
+![Trello Planning Board](Preview/planning.png)
 *5-day project planning with 11 organized cards*
 
 ---

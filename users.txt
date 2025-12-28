@@ -1,0 +1,15 @@
+Administrateurs
+    admin / admin123
+    amina / amina123
+
+Éditeurs
+    thomas / thomas123
+    marie / marie123
+    pierre / pierre123
+
+Auteur
+    lea / lea123
+    sophie / sophie123
+    lucas / lucas123
+    julie / julie123
+    antoine / antoine123
